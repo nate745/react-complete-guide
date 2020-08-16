@@ -34,9 +34,6 @@ class App extends Component {
     } )
   }
 
-  fetchDataHandler = () => {
-    // Fetch Data here
-  }
 
   render () {
     return (
